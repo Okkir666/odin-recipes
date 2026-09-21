@@ -1,0 +1,41 @@
+.button {
+    display: inline-block;
+    padding: 10px 50px;
+    background-color: #333;
+    color: rgb(251, 253, 255);
+    text-decoration: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0f0a0a;
+
+}
+h1 {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-align: center;
+}                     
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 500px;
+    height: 400px;
+
+}
+
+.recipe-description {
+    font-size: 1em;
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(9, 32, 1);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 500px;
+     margin: 0 auto;
+
+
+}
